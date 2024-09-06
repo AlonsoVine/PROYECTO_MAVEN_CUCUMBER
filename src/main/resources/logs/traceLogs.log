@@ -1,0 +1,78 @@
+10:15:48.073 INFO  AUTOMATION - Before test
+10:15:48.073 DEBUG AUTOMATION - Obteniendo la lista e monstruos del excel
+10:15:48.186 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:15:48.230 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:15:48.278 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+10:15:48.278 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+10:15:48.278 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+10:15:48.278 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+10:15:48.278 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+10:15:48.278 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+10:15:48.293 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+10:15:48.293 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+10:15:48.293 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+10:15:48.309 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+10:15:48.309 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+10:15:48.309 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+10:15:48.309 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+10:15:48.309 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+10:15:48.372 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+10:15:48.372 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+10:15:48.403 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctstylesheet4257type
+10:15:48.419 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctnumfmtsb58btype
+10:15:48.419 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctnumfmt3870type
+10:15:48.419 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stnumfmtid76fbtype
+10:15:48.434 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stxstringf179type
+10:15:48.434 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfonts6623type
+10:15:48.434 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfont14d8type
+10:15:48.451 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfills2c6ftype
+10:15:48.451 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfill550ctype
+10:15:48.451 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborders0d66type
+10:15:48.451 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborderf935type
+10:15:48.451 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellxfs1322type
+10:15:48.467 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctxf97f7type
+10:15:48.467 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+10:15:48.467 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctdxfsb26atype
+10:15:48.467 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cttablestyles872ftype
+10:15:48.467 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle themefd26doctype
+10:15:48.497 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrsta472type
+10:15:48.513 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcellstylexfid70c7type
+10:15:48.551 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+10:15:48.551 INFO  AUTOMATION - Verificamos que el último elemento tenga los datos deseados.
+10:15:48.560 INFO  AUTOMATION - After test
+10:15:48.560 INFO  AUTOMATION - Test correcto
+10:15:48.560 INFO  AUTOMATION - 
+10:15:48.670 INFO  AUTOMATION - Test desabilitado
+10:15:48.717 INFO  AUTOMATION - Before test
+10:15:48.983 INFO  AUTOMATION - Verificamos que los datos del Json son los esperados.
+10:15:48.983 INFO  AUTOMATION - After test
+10:15:48.983 INFO  AUTOMATION - Test correcto
+10:15:48.983 INFO  AUTOMATION - 
+10:15:49.261 INFO  AUTOMATION - before all
+10:15:49.261 INFO  AUTOMATION - Yo me ejecuto al principio del todo
+10:15:49.344 INFO  AUTOMATION - Yo me ejecuto al principio de cada escenario
+10:15:49.360 INFO  AUTOMATION - Yo me ejecuto al final, el resultado es PASSED.
+10:15:49.376 INFO  AUTOMATION - Yo me ejecuto al principio de cada escenario
+10:15:49.392 INFO  AUTOMATION - Yo me ejecuto al final, el resultado es PASSED.
+10:15:49.392 INFO  AUTOMATION - Yo me ejecuto al principio de cada escenario
+10:15:49.407 INFO  AUTOMATION - Yo me ejecuto al final, el resultado es PASSED.
+10:15:49.439 INFO  AUTOMATION - Yo me ejecuto al principio de cada escenario
+10:15:49.439 DEBUG AUTOMATION - Obteniendo la lista e monstruos del excel
+10:15:49.455 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:15:49.455 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:15:49.502 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+10:15:49.502 INFO  AUTOMATION - Yo me ejecuto al final, el resultado es PASSED.
+10:15:49.517 INFO  AUTOMATION - Yo me ejecuto al principio de cada escenario
+10:15:49.517 DEBUG AUTOMATION - Obteniendo la lista e monstruos del excel
+10:15:49.533 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:15:49.533 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:15:49.583 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+10:15:49.583 INFO  AUTOMATION - Yo me ejecuto al final, el resultado es PASSED.
+10:15:49.595 INFO  AUTOMATION - Yo me ejecuto al principio de cada escenario
+10:15:49.611 INFO  AUTOMATION - Yo me ejecuto al final, el resultado es PASSED.
+10:15:49.627 INFO  AUTOMATION - Yo me ejecuto al principio de cada escenario
+10:15:49.642 INFO  AUTOMATION - Yo me ejecuto al final, el resultado es PASSED.
+10:15:49.658 INFO  AUTOMATION - Yo me ejecuto al principio de cada escenario
+10:15:49.658 INFO  AUTOMATION - Yo me ejecuto al final, el resultado es PASSED.
+10:15:49.674 INFO  AUTOMATION - Yo me ejecuto al final del todo
+10:15:49.674 INFO  AUTOMATION - after all
